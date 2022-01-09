@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SingleDateTimeActivity"
+    android:orientation="vertical">
+
+    <!--<com.github.florent37.singledateandtimepicker.SingleDateAndTimePicker
+        android:id="@+id/single_day_picker_id_1"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        app:picker_curved="true"
+        app:picker_cyclic="true"
+        app:picker_visibleItemCount="7"
+        />-->
+
+    <com.github.florent37.singledateandtimepicker.SingleDateAndTimePicker
+        android:id="@+id/single_date_picker_id_2"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        app:picker_itemSpacing="6dp"
+        app:picker_curvedMaxAngle="45"
+        app:picker_curved="true"
+        app:picker_selectorColor="@android:color/transparent"
+        app:picker_stepSizeHours="2"
+        app:picker_stepSizeMinutes="5"
+        app:picker_cyclic="false"
+        app:picker_dayCount="31"
+        app:picker_mustBeOnFuture="true"
+        app:picker_visibleItemCount="7"
+        />
+
+
+</LinearLayout>
