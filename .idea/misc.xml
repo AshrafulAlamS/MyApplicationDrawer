@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_check_location.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_date_time.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_faq.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_help.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_single_date_time.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/bottom_sheet_persistent.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/child_elv_faq.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/fragment_gallery.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/history_fragment.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/nav_header_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/parent_elv_faq.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/row_gallery.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/menu/main.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

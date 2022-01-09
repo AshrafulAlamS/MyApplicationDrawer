@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelpActivity"
+    android:background="#ffffff"
+    android:paddingBottom="32dp">
+    <!--**We need CoordinatorLayout for Bottom sheet**-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/buttonBottomSheetPersistent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Open Bottom Sheet"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="16dp"/>
+    </LinearLayout>
+
+    <include layout="@layout/bottom_sheet_persistent"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
