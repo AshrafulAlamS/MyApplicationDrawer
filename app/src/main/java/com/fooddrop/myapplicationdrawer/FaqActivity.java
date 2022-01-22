@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ExpandableListView;
 
+import com.fooddrop.myapplicationdrawer.adapter.FaqExListAdapter;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

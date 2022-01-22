@@ -15,6 +15,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplicationDrawer">
         <activity
+            android:name=".ui.EditTextActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.CountryListActivity"
+            android:exported="false" />
+        <activity
             android:name=".FaqActivity"
             android:exported="false" />
         <activity

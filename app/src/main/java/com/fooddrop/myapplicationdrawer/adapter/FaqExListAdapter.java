@@ -1,4 +1,4 @@
-package com.fooddrop.myapplicationdrawer;
+package com.fooddrop.myapplicationdrawer.adapter;
 
 import android.content.Context;
 import android.graphics.Typeface;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseExpandableListAdapter;
 import android.widget.TextView;
+
+import com.fooddrop.myapplicationdrawer.R;
 
 import java.util.HashMap;
 import java.util.List;

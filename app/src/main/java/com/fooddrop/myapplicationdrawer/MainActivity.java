@@ -6,6 +6,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Menu;
 
+import com.fooddrop.myapplicationdrawer.ui.CountryListActivity;
+import com.fooddrop.myapplicationdrawer.ui.EditTextActivity;
 import com.google.android.material.snackbar.Snackbar;
 import com.google.android.material.navigation.NavigationView;
 
@@ -81,5 +83,13 @@ public class MainActivity extends AppCompatActivity {
 
     public void gotoFaq(MenuItem item) {
         startActivity(new Intent(MainActivity.this, FaqActivity.class));
+    }
+
+    public void gotoCountry(MenuItem item) {
+        startActivity(new Intent(MainActivity.this, CountryListActivity.class));
+    }
+
+    public void gotoEditText(MenuItem item) {
+        startActivity(new Intent(MainActivity.this, EditTextActivity.class));
     }
 }

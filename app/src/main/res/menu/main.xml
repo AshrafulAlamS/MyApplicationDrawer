@@ -30,4 +30,16 @@
         android:orderInCategory="100"
         android:title="@string/action_faq"
         app:showAsAction="never"/>
+    <item
+        android:onClick="gotoCountry"
+        android:id="@+id/action_country"
+        android:orderInCategory="100"
+        android:title="@string/action_country"
+        app:showAsAction="never"/>
+    <item
+        android:onClick="gotoEditText"
+        android:id="@+id/action_editText"
+        android:orderInCategory="100"
+        android:title="@string/action_country"
+        app:showAsAction="never"/>
 </menu>

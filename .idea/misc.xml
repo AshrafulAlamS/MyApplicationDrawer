@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_country_list.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_date_time.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_edit_text.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_faq.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_help.xml" value="0.22" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
@@ -12,6 +14,7 @@
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/bottom_sheet_persistent.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/child_elv_faq.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/country_list_raw.xml" value="0.1" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/fragment_gallery.xml" value="0.22" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MyApplicationDrawer/app/src/main/res/layout/history_fragment.xml" value="0.35260416666666666" />
